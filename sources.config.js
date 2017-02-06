@@ -19,4 +19,18 @@ module.exports = {
   sad: 'http://japaneseemoticons.me/sad-emoticons/',
   scared: 'http://japaneseemoticons.me/scared-emoticons/',
   worried: 'http://japaneseemoticons.me/worried-emoticons/',
+
+  // Animals/Pets
+  bird: 'http://japaneseemoticons.me/bird-emoticons/',
+  cat: 'http://japaneseemoticons.me/cat-emoticons/',
+  dog: 'http://japaneseemoticons.me/dog-emoticons/',
+  pig: 'http://japaneseemoticons.me/pig-emoticons/',
+  rabbit: 'http://japaneseemoticons.me/rabbit-emoticons/',
+  sheep: 'http://japaneseemoticons.me/sheep-emoticons/',
+
+  // Animals/Wild
+  bear: 'http://japaneseemoticons.me/bear-emoticons/',
+  fish: 'http://japaneseemoticons.me/fish-emoticons/',
+  monkey: 'http://japaneseemoticons.me/monkey-emoticons/',
+  animal: 'http://japaneseemoticons.me/other-animal-emoticons/',
 };
